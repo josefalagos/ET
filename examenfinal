@@ -108,7 +108,7 @@
     "    print('-----MENU PRINCIPAL Pybooks-----')\n",
     "    print('1.-Stock marca.')\n",
     "    print('2.-Busqueda por precio.')\n",
-    "    print('3.-Actualizar precio.')\n",
+    "    print('3.-Actualizar precio.--')\n",
     "    print('4.-Salir. ')\n",
     "    print('-'*40)\n",
     "    \n",
